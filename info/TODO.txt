@@ -1,0 +1,4 @@
+Instructions
+	X Reactive_agent_presentation
+	X IA_Introduction_to_PDP_and_LogistAgent
+	- reactive.pdf
