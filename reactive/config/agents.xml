@@ -4,10 +4,10 @@
 	<!-- A list of agents and their behavior classes -->
 	
 	<!-- #### REACTIVE AGENTS ### -->
-	<agent name="reactive-random">
+	<agent name="reactive-agent">
 		<set class-path="out/production/reactive"/>
-		<set class-name="template.ReactiveTemplate"/>
-		<set discount-factor=".85"/>
+		<set class-name="ReactiveAgent"/>
+		<set discount-factor=".95"/>
 	</agent>
 	
 </agents>
